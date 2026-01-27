@@ -42,7 +42,10 @@
     "english",
     "cstml"
   ],
-  "repository": "git@github.com:bablr-lang/language_enhancer-en-jsx.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bablr-lang/language_enhancer-en-jsx.git"
+  },
   "homepage": "https://github.com/bablr-lang/language_enhancer-en-jsx",
   "author": "Conrad Buck <conartist6@gmail.com>",
   "license": "MIT"
