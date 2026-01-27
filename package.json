@@ -21,7 +21,7 @@
     "@bablr/agast-helpers": "0.10.3",
     "@bablr/agast-vm-helpers": "0.10.3",
     "@bablr/boot": "0.11.2",
-    "@bablr/helpers": "0.24.1",
+    "@bablr/helpers": "0.25.1",
     "@bablr/language-en-blank-space": "0.10.1"
   },
   "devDependencies": {
